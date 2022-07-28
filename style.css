@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(to right, #01579b, #002f6c, #01579b);
+}
+
+.hola {
+    margin: 50px 40px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-size: 40px;
+    cursor: default;
+}
+
+.presentacion {
+    margin-bottom: 30px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Oxygen', sans-serif;
+    cursor: default;
+}
+
+.name {
+    color: #c8d881;
+}
+
+.boton {
+    text-align: center;
+}
+
+.boton button {
+    background: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    font-size: 20px;
+}
+
+.boton a {
+    text-decoration: none;
+    color: #fff;
+    margin: 10px 5px;
+}
